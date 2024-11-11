@@ -1,3 +1,5 @@
+Privacy-Policy
+
 Privacybeleid voor Narin-Game-Studio Games
 
 Laatst bijgewerkt: 11/11/2024
