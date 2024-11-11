@@ -1,4 +1,4 @@
-Privacy-Policy
+# PrivacyPolicy
 
 Privacybeleid voor Narin-Game-Studio Games
 
