@@ -47,27 +47,25 @@ Privacy Policy for Narin-Game-Studio Games
 
 Last updated: 11/11/2024
 
-1. At Narin-Game-Studio
-  - we take your privacy very seriously. This privacy policy explains how we handle your information when you play our games.
-  - By using our games, you agree to the collection and use of your data as outlined in this policy.
+At Narin-Game-Studio we take your privacy very seriously. This privacy policy explains how we handle your information when you play our games. By using our games, you agree to the collection and use of your data as outlined in this policy.
 
 
-2. Data Collection
+1. Data Collection
   - We may collect personal information such as your email address, username, or device ID when you use our games.
   - We also collect anonymous data for analysis, such as game behavior, performance, and statistics, to improve the game experience.
   
    
-3. Data Usage
+2. Data Usage
   - We use data to enhance gameplay experience, provide updates, and troubleshoot technical issues.
   - With your permission, we may inform you of new updates, events, and offers.
 
 
-4. Data Sharing
+3. Data Sharing
   - We do not share your data with third parties, except as required by law or to comply with legal obligations.
   - We may share certain data with trusted third parties for analytical purposes to optimize game performance and user experience.
 
 
-Data Security
+4. Data Security
   - We are committed to keeping your data secure and take appropriate measures to prevent unauthorized access.
 
 
